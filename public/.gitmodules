@@ -1,0 +1,4 @@
+[submodule "public/NoteTaker"]
+    path = public/NoteTaker
+    url = https://github.com/Pdut3/NoteTaker
+
